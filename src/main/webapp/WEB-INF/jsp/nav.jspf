@@ -1,0 +1,12 @@
+
+<nav class="menu">
+
+		<a href="http://localhost:8080/web_empleados">HOME</a>
+		<a href="http://localhost:8080/web_empleados/departamentos">Departamentos</a>
+		
+		<div class="menu-log">
+		
+		
+		</div>
+		
+	</nav>
